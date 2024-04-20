@@ -1,0 +1,23 @@
+body{
+  overflow-x: hidden;
+  background-color: antiquewhite;
+}
+
+.main{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  margin-top: 50px;
+  
+}
+
+.begin{
+  width: 600px;
+  height: 500px;
+  border-radius: 10px;
+  background-color: rgb(98, 201, 170);
+ ;
+
+}
